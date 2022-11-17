@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/wisdom.mp3-3e65c43c38a0d3ac59e05f8d97aa438a.mp3str"
+
+[deps]
+
+source_file="res://assets/sounds/wisdom.mp3"
+dest_files=[ "res://.import/wisdom.mp3-3e65c43c38a0d3ac59e05f8d97aa438a.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

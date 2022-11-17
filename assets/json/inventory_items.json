@@ -1,0 +1,8 @@
+{
+    "texture_tool":{
+        "name":"Texture Tool",
+        "description":"A tool for changing textures",
+        "icon":"texture_tool.png",
+        "stackable":false
+    }
+}
